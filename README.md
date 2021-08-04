@@ -20,4 +20,4 @@ In Eclipse, this can be performed using File -> Import -> Maven -> Existing Mave
 
 ## Exercise 1
 
-This exercise introduces the `@Test` annotation.
+This exercise introduces the `@Test` annotation. To start this exercise, open `Exercise1Test.java` in your IDE.
